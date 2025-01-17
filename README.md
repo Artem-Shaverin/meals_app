@@ -1,20 +1,9 @@
-<<<<<<< HEAD
-# meals
+# Meals App
 
-A new Flutter project.
+A cross-platform mobile application developed with Flutter and Dart, allowing users to explore meals categorized by type. Users can view detailed recipes with photos, ingredients, and step-by-step cooking instructions. Features include adding meals to a favorites list and filtering meals by dietary preferences, such as gluten-free, lactose-free, vegan, and vegetarian. The app uses Riverpod for state management and integrates custom fonts and material design for a polished user experience.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# meals_app
->>>>>>> cd32f8b637fa39b19528c0fff71e06015acb9495
+## Key Technologies
+- **Frontend**: Flutter, Dart
+- **State Management**: Riverpod
+- **UI/Fonts**: Material Design, Cupertino Icons, Google Fonts
+- **Images**: transparent_images
